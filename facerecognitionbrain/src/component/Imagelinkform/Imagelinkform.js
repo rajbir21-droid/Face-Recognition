@@ -8,7 +8,8 @@ const Imagelinkform=({onInputChange,onButtonSubmit})=>{
           {'This Magic Brain will detect faces in your pictures. Give it a try.'}
         </p>
         <p className='f4'>
-          {'Submit your Image link in the box!!'}
+          {'Submit your Image link in the box!!'}<br/>
+          {'Copy the image address and submit only jpeg format'}
         </p>
         <div className='center'>
           <div className='form center pa4 br3 shadow-5'>
