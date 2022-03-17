@@ -1,5 +1,5 @@
 # Face-Recognition
-This is a Face recognition web app made using MERN stack which detects the face of a picture through an API(CLARIFAI) call.
+
 ## Introduction
 
 ```
