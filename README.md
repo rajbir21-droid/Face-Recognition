@@ -65,10 +65,10 @@ git clone https://github.com/rajbir21-droid/Face-Recognition.git
 
 ### How to setup the mongodb:
 
-- First create a '.env' file the create a key like 'MONGO_URI=' and paste the below command. Make sure you first create
+- First create a '.env' file then create a key like 'MONGO_URI=' and paste the below command. Make sure you first create
   an account in [Mongodb atlas](https://www.mongodb.com/cloud/atlas)
 ```
 mongodb+srv://yourusername:<password>@cluster0.m9l4p.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 ```
-- Use your username and password and database name here you created in MongoDB atlas
+- Use your username and password and database name in place of yourusername ,password and myFirstDatabase respectively here you created in MongoDB atlas
 
