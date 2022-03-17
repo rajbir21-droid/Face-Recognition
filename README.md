@@ -70,5 +70,5 @@ git clone https://github.com/rajbir21-droid/Face-Recognition.git
 ```
 mongodb+srv://yourusername:<password>@cluster0.m9l4p.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 ```
-- Use your username and password and database name in place of yourusername ,password and myFirstDatabase respectively here you created in MongoDB atlas
+- Use your username and password and database name in place of yourusername ,password and myFirstDatabase respectively here that you created in MongoDB atlas
 
